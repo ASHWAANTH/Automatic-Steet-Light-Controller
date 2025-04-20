@@ -3,9 +3,9 @@
  _Using an LDR and relay circuit, an automatic street light is to be constructed._
 
 ### Table of Contents:
-1. Introduction [CLICH HERE](#INTRODUCTION)
+1. Introduction [CLICH HERE](#introduction)
 
-2. Components Used
+2. Components Used [CLICH HERE](#components-used)
 
 3. Circuit Diagram and Simulation Using PROTEUS
 
@@ -56,6 +56,24 @@ __Environmentally Friendly:__ Supports sustainability by minimizing energy wasta
 
 
 ## COMPONENTS USED:
+12V Supply (For Triggering Crcuit)
+
+1.5V Supply (For Main Circuit)
+
+LDR (Light Dependent Resistor)
+
+1kΩ Resistor
+
+10kΩ Variable Resistor (Potentiometer)
+
+BC547 NPN Transistors (×2)
+
+12 Relay
+
+1N4007 Diode
+
+Bulb(Street Light)
+
 
 
 
