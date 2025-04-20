@@ -3,7 +3,7 @@
  _Using an LDR and relay circuit, an automatic street light is to be constructed._
 
 ### Table of Contents:
-1. Introduction
+1. Introduction [CLICH HERE](#INTRODUCTION)
 
 2. Components Used
 
@@ -24,7 +24,39 @@
 10. References
 
 
-### INTRODUCTION:
+## INTRODUCTION:
+### Problem Statement:
+Streetlights are crucial for public safety and urban aesthetics. However, traditional street lighting systems
+ often rely on manual switching or fixed timers, which can result in significant energy wastage. 
+ Lights may remain ON during the daytime or OFF when needed in overcast or low-light conditions due to human
+ error or improper timing.
+Thus, there is a need for a system that can automatically control streetlights based on the ambient
+ light conditions, ensuring that they are ON only when necessary.
+ 
+### Why this project??
+The proposed project aims to enhance the efficiency of street
+ lighting by using an Automated Street Light Controller. This system leverages a Light Dependent Resistor
+ (LDR) and a Relay Circuit to:
+ 
+Automatically turn __ON__ streetlights when the surrounding light falls below a certain threshold
+ (e.g., at dusk or during dark weather conditions).
+
+Automatically turn __OFF__ streetlights when ambient light increases (e.g., at dawn or on bright days).
+
+__Key Benefits:__
+__Energy Conservation:__ Avoids unnecessary power consumption by ensuring lights are ON only when needed.
+
+__Reduced Human Intervention:__ Eliminates the chances of human error involved in manual switching.
+
+__Cost Efficiency:__ Reduces electricity bills and maintenance costs over time.
+
+__Environmentally Friendly:__ Supports sustainability by minimizing energy wastage.
+
+
+
+
+## COMPONENTS USED:
+
 
 
 
