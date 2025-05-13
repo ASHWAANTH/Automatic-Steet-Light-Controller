@@ -3,9 +3,9 @@
  _Using an LDR and relay circuit, an automatic street light is to be constructed._
 
 ### Table of Contents:
-1. Introduction [CLICH HERE](#introduction)
+1. Introduction [CLICK HERE](#introduction)
 
-2. Components Used [CLICH HERE](#components-used)
+2. Components Used [CLICK HERE](#components-used)
 
 3. Circuit Diagram and Simulation Using PROTEUS
 
